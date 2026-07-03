@@ -1,7 +1,9 @@
 # Automatizando o reporte de pendências contábeis de um produto de crédito de alto volume
 
 **Contexto:** produto de crédito consignado em uma instituição financeira de grande porte
+
 **Meu papel:** condução ponta a ponta, da modelagem dos dados até a entrega do produto analítico final
+
 **Stack:** SQL · Python (pandas, matplotlib) · Databricks · HTML · automação de distribuição por e-mail
 
 > **Nota sobre os dados:** por confidencialidade, generalizei o nome da instituição, os nomes de sistemas e scripts internos, e os valores absolutos apresentados aqui. A estrutura do problema, a arquitetura da solução e a ordem de grandeza dos resultados refletem fielmente o projeto real.
